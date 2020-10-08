@@ -30,7 +30,7 @@ public class TestMaximum<T extends Comparable<T>> {
 	}
 
 	public static void main(String[] args) {
-		Integer xI = 5, yI = 4, zI = 3;
+		Integer xI = 4, yI = 5, zI = 3;
 		TestMaximum.maximum(xI, yI, zI);
 	}
 }
